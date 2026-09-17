@@ -89,21 +89,21 @@ Nov 2023 -- Jul 2027
 
 \section*{Projects}
 
-%-------------------- BIN2BIT --------------------
+%-------------------- BIN2BITE --------------------
 
 \noindent
-\href{https://github.com/Uday0263/Bin2Bit}
-{\textbf{Bin2Bit}}
+\href{https://github.com/Uday0263/Bin2Bite}
+{\textbf{Bin2Bite}}
 \hfill
 \textit{2026}
 
 \noindent
-\textit{HTML, CSS, JavaScript}
+\textit{Client-Server Web Application}
 
 \begin{itemize}
-\item Developed a web-based binary conversion tool for converting numbers between binary and decimal representations.
-\item Built an interactive and responsive user interface using HTML, CSS, and JavaScript.
-\item Implemented client-side conversion logic and user input handling for real-time results.
+\item Developed a food redistribution platform that helps users discover nearby donors with excess food.
+\item Implemented live location-based donor discovery and radius filtering to find available donors within a selected distance.
+\item Built a client-server application that enables users to connect with nearby donors and procure available excess food.
 \end{itemize}
 
 \vspace{5pt}
@@ -239,3 +239,12 @@ Arrays, Strings, HashMaps, Linked Lists
 
 \end{document}
 ```
+
+**Only Bin2Bit was changed**:
+
+* `Bin2Bit` → `Bin2Bite`
+* GitHub link → `Bin2Bite`
+* Binary-converter description → food redistribution/location/radius-filter description
+* `HTML, CSS, JavaScript` → `Client-Server Web Application`
+
+Everything else—including your margins, spacing, projects, skills, achievements, and extracurricular sections—is unchanged.
